@@ -8,7 +8,7 @@ This assessment is designed to evaluate your capabilities in front-end and back-
 **Part 1: Coding Challenge - Build a Simplified Code Collaboration Tool**
 
 **Overview:**
-Develop a basic version of a code collaboration tool similar to `sharepad.io`. This exercise focuses on integrating simple front-end and back-end functionalities without real-time collaboration features.
+Develop a basic version of a code collaboration tool similar to `sharepad.io`. This exercise focuses on integrating simple front-end and back-end functionalities without real-time collaboration features. You are allowed to use open-source libraries to complete this test :)
 
 **Requirements:**
 
@@ -22,7 +22,7 @@ Develop a basic version of a code collaboration tool similar to `sharepad.io`. T
    - Show compilation errors or statuses and display outputs from code execution, including any runtime errors.
 
 **Time Frame:**
-You will have one week to complete this assignment, but it is expected that you spend no more than 4 hours on the actual coding portion of the task.
+You will have one week to complete this assignment, but it is expected that you spend no more than 5 hours on the actual coding portion of the task.
 
 ---
 
@@ -34,19 +34,16 @@ You will participate in a live system design interview, where you will be asked 
 **Preparation Tips:**
 
 1. **Understand Basic Components:**
-   - Familiarize yourself with key system design elements such as load balancers, databases, caching, and message queues.
+   - Familiarize yourself with key system design elements.
 
 2. **Scalability and Reliability:**
-   - Consider how systems scale and various strategies to handle load increases. Understand concepts of redundancy, replication, and failover.
+   - Consider how systems scale and various strategies to handle load increases.
 
 3. **High-Level Architecture:**
-   - Be prepared to discuss the high-level architecture of a system you’re familiar with or have worked on. Be able to explain your choices and alternatives.
+   - Be prepared to discuss the high-level architecture of complex system. Be able to explain your choices and alternatives.
 
 4. **Problem Solving:**
    - Practice structuring your thoughts and solutions clearly and logically. Be ready to discuss trade-offs and justify your design decisions during the interview.
-
-**Recommended Resources:**
-- Brush up on system design fundamentals from books, courses, and online platforms.
 
 ---
 
